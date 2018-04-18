@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Todd Schluechtermann",
+      "authorEmail": "dyson_swarm@outlook.com",
+      "authorUrl": ""
+    }
+  }
+}
